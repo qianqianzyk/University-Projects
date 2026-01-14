@@ -1,0 +1,6 @@
+GaussDB:
+  Host: ""
+  Port:
+  User: ""
+  Pass: ""
+  DBName: ""
