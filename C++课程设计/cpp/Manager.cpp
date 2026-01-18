@@ -1,0 +1,1 @@
+#include "../hpp/Manager.hpp"
